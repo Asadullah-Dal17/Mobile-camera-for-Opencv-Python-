@@ -12,6 +12,6 @@ pip3 install numpy opencv-python requests
 
 # connect IP Webcam app to system. 
 
-# run follow command
+# run following command
 
 python3 mobile_camera_opencv.py
